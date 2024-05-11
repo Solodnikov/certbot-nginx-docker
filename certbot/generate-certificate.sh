@@ -1,3 +1,4 @@
+# generate-certificate.sh
 #!/bin/bash
 
 rm -rf /etc/letsencrypt/live/certfolder*
